@@ -1,0 +1,17 @@
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.deps.json
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.runtimeconfig.json
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/bin/Debug/net8.0/Bulky.DataAccess.pdb
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/bin/Debug/net8.0/Bulky.Models.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.AssemblyInfo.cs
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.csproj.CopyComplete
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/refint/Bulky.DataAccess.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.pdb
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/Bulky.DataAccess.genruntimeconfig.cache
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.DataAccess/obj/Debug/net8.0/ref/Bulky.DataAccess.dll

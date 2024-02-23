@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/bin/Debug/net8.0/Bulky.Models.deps.json
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/bin/Debug/net8.0/Bulky.Models.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/bin/Debug/net8.0/Bulky.Models.pdb
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/Bulky.Models.AssemblyInfo.cs
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/Bulky.Models.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/Bulky.Models.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/refint/Bulky.Models.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/Bulky.Models.pdb
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/Debug/net8.0/ref/Bulky.Models.dll
