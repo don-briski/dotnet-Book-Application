@@ -134,3 +134,4 @@
 /Users/mac/Desktop/Dotnet/dotnet-Mastery/BulkyRazorApp/obj/Debug/net8.0/BulkyRazorApp.pdb
 /Users/mac/Desktop/Dotnet/dotnet-Mastery/BulkyRazorApp/obj/Debug/net8.0/BulkyRazorApp.genruntimeconfig.cache
 /Users/mac/Desktop/Dotnet/dotnet-Mastery/BulkyRazorApp/obj/Debug/net8.0/ref/BulkyRazorApp.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/BulkyRazorApp/obj/Debug/net8.0/BulkyRazorApp.sourcelink.json

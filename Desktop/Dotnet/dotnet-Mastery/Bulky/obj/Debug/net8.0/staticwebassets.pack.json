@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/images/product/20d8399d-e775-4f0b-9e2d-563e16c29e95.jpg",
+      "PackagePath": "staticwebassets/images/product/20d8399d-e775-4f0b-9e2d-563e16c29e95.jpg"
+    },
+    {
+      "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/images/product/421fd746-1257-4974-9850-290467579fe9.jpg",
+      "PackagePath": "staticwebassets/images/product/421fd746-1257-4974-9850-290467579fe9.jpg"
+    },
+    {
+      "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/images/product/a2d298a7-c79c-4f2c-afb6-4136447cc4b7.jpg",
+      "PackagePath": "staticwebassets/images/product/a2d298a7-c79c-4f2c-afb6-4136447cc4b7.jpg"
+    },
+    {
+      "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/images/product/b842e237-a06b-4371-8e73-8d8f4138ea54.jpg",
+      "PackagePath": "staticwebassets/images/product/b842e237-a06b-4371-8e73-8d8f4138ea54.jpg"
+    },
+    {
+      "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/images/product/da298490-225d-494a-b773-3dd02393a2e0.jpg",
+      "PackagePath": "staticwebassets/images/product/da298490-225d-494a-b773-3dd02393a2e0.jpg"
+    },
+    {
+      "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
+    },
+    {
       "Id": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

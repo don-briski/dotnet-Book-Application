@@ -1,0 +1,40 @@
+@model Category
+
+
+<form action="" method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+        <h2>  Edit Category</h2>
+        </hr>
+    </div>
+
+
+    @* <div class="mb-3 row">
+        <label asp-for="Id" for="id">Category Id </label>
+        <input  asp-for="Id" class="form-control" hidden />
+    </div> *@
+
+    <div class="mb-3 row">
+         <label asp-for="Name">Category Name </label>
+         <input asp-for="Name" type="text" class="form-control" /> 
+         <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="DisplayOrder">Display Order</label>
+        <input asp-for="DisplayOrder" class="form-control" type="text" />
+        <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+    </div>
+
+    <div class="row" style="display: flex; justify:center">
+        <div class="col-4">
+    <button type="submit" class="btn btn-primary" style="width:150px; ">Update</button>
+        </div>
+        <div class="col-6">
+ <button type="submit" class="btn btn-danger">
+        <a asp-controller="Category" asp-action="Index"  style="width:150px color:white; text-decoration:none;">Back to List</a>
+    </button>
+        </div>
+
+    </div>
+</form>

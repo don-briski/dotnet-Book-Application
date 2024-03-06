@@ -16,7 +16,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
-      <ProjectReference Include="../Bulky.Models/Bulky.Models.csproj" />
+      <ProjectReference Include="../Bulky.Models/BulkyBook.Models.csproj" />
   </ItemGroup>
 
 </Project>

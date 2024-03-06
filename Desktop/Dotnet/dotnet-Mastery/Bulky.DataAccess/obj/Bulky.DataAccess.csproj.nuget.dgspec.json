@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/Bulky.Models.csproj": {
-                "projectPath": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/Bulky.Models.csproj"
+              "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/BulkyBook.Models.csproj": {
+                "projectPath": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/BulkyBook.Models.csproj"
               }
             }
           }
@@ -83,12 +83,12 @@
         }
       }
     },
-    "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/Bulky.Models.csproj": {
+    "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/Bulky.Models.csproj",
-        "projectName": "Bulky.Models",
-        "projectPath": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/Bulky.Models.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/BulkyBook.Models.csproj",
+        "projectName": "BulkyBook.Models",
+        "projectPath": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/BulkyBook.Models.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
         "outputPath": "/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky.Models/obj/",
         "projectStyle": "PackageReference",
@@ -116,6 +116,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

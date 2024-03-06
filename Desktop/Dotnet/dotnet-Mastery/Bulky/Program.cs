@@ -1,41 +1,32 @@
+using Bulky;
 using Bulky.DataAccess.Data;
+using Bulky.Repository;
+using Bulky.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
+
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(connectionString)
+   // .EnableSensitiveDataLogging()
+    );
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IUnitofWork, UnitofWork>();
 
-builder.Services.AddDbContext<ApplicationDbContext>(
-               options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
-// builder.Services.AddDbContext<ApplicationDbContext>(option => 
-//     option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"),
-//     sqlServerOptionsAction: sqlOptions => {
-//         sqlOptions.EnableRetryOnFailure(
-//     //         maxRetryCount: 5,
-//     //         maxRetryDelay: TimeSpan.FromSeconds(30),
-//     //         errorNumbersToAdd: null
-//     );
-//      })
-//     );
-    
-    //  internal void ConfigureServices(IServiceCollection services)
-    // {
-    //     services.AddControllersWithViews();
-    //     services.AddDbContext<ApplicationDbContext>(option => 
-    //         option.UseSqlServer(IConfiguration.GetConnectionString("DefaultConnection"),
-    //         sqlServerOptionsAction: sqlOptions => {
-    //             sqlOptions.EnableRetryOnFailure(
-    //                 maxRetryCount: 5,
-    //                 maxRetryDelay: TimeSpan.FromSeconds(30),
-    //                 errorNumbersToAdd: null
-    //             );
-    //         })
-    //     );
-    // }
+// builder.Services.AddDbContext<ApplicationDbContext>(
+//                options => options.UseSqlServer("name=ConnectionStrings:DefaultConnection"));
+
+ //   Console.WriteLine($"Connection String: {builder.Configuration.GetConnectionString("DefaultConnection")}");
+
 
 var app = builder.Build();
+//var options = app.Services.GetRequiredService<DbContextOptions<ApplicationDbContext>>();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -57,6 +48,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{area=Customer}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
