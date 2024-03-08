@@ -257,3 +257,11 @@
 /Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/obj/Debug/net8.0/Bulky.MvcApplicationPartsAssemblyInfo.cs
 /Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
 /Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/mac/Desktop/Dotnet/dotnet-Mastery/Bulky/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
