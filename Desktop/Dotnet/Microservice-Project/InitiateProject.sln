@@ -7,6 +7,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Service.CouponApi", "Services\Mango.Service.CouponApi\Mango.Service.CouponApi.csproj", "{E4375CB9-E084-44D8-96B0-6F1908188FF6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{C8874CB5-7E2C-443E-B036-B956DF5B4BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Web", "FrontEnd\Mango.Web\Mango.Web.csproj", "{FCE39D45-9862-42E8-884C-FF47554A4138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Service.AuthAPI", "Services\Mango.Service.AuthAPI\Mango.Service.AuthAPI.csproj", "{8EC590D6-C6EA-4E8C-A695-0436B4CD65B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +23,21 @@ Global
 		{E4375CB9-E084-44D8-96B0-6F1908188FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4375CB9-E084-44D8-96B0-6F1908188FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4375CB9-E084-44D8-96B0-6F1908188FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE39D45-9862-42E8-884C-FF47554A4138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE39D45-9862-42E8-884C-FF47554A4138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE39D45-9862-42E8-884C-FF47554A4138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE39D45-9862-42E8-884C-FF47554A4138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC590D6-C6EA-4E8C-A695-0436B4CD65B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC590D6-C6EA-4E8C-A695-0436B4CD65B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC590D6-C6EA-4E8C-A695-0436B4CD65B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC590D6-C6EA-4E8C-A695-0436B4CD65B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E4375CB9-E084-44D8-96B0-6F1908188FF6} = {D6747769-6594-415E-9ADA-57A0CF17409F}
+		{FCE39D45-9862-42E8-884C-FF47554A4138} = {C8874CB5-7E2C-443E-B036-B956DF5B4BE1}
+		{8EC590D6-C6EA-4E8C-A695-0436B4CD65B0} = {D6747769-6594-415E-9ADA-57A0CF17409F}
 	EndGlobalSection
 EndGlobal
